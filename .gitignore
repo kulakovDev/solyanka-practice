@@ -1,0 +1,25 @@
+# IDE/Editor-specific
+.idea/
+*.iml
+.idea/workspace.xml
+shelf/
+httpRequests/
+dataSources/
+dataSources.local.xml
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
